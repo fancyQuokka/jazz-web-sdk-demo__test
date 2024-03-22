@@ -13,4 +13,4 @@ setTimeout(() => {
   root.render(
     <AppContainer />
   );
-}, 0)
+}, 200)
